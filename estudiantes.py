@@ -47,7 +47,7 @@ def mostrar_cursos_unicos():
 
 def menu_principal():    
     while True:
-        print('-------SISTEMA DE REGISTRO DE ESTUDIANTES------------')
+        print('-------SISTEMA DE REGISTRO DE ESTUDIANTES CAMPUS------------')
         print('1. Registrar estudiante\n2. Estudiantes registrados\n3. Buscar estudiante por nombre\n4. Mostrar cursos\n0. Salir')
 
         opcion = int(input("Ingrese una opcion: "))
